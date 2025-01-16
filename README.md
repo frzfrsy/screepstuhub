@@ -5,7 +5,7 @@ The best script hub in creator's perspective!
 
 Get it [here](https://github.com/frzfrsy/screepstuhub/wiki)
 
- - Currently seventh version
+ - Currently eighth version
  - Open Source
  - 2 years of development
 
