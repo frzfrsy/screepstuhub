@@ -14,4 +14,4 @@ Get it [here](https://github.com/frzfrsy/screepstuhub/wiki)
 
 ### Uploader: frzfrsy @GitHub
 ### Developer: SKEPPY0_0MAN @Roblox
-### Developer (inactive): HalalDevelopmentCorp @Roblox
+### Developer (inactive): d_0dle @Roblox
