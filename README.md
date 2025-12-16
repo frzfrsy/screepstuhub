@@ -6,12 +6,12 @@ The best script hub in creator's perspective!
 Get it [here](https://github.com/frzfrsy/screepstuhub/wiki)
 
  - Currently eighth version
- - Open Source
- - 2 years of development
+ - Not Open Source
+ - 3 years of development
 
 ## Developers
 ### Creator: creepstu @Roblox
 
-### Uploader: frzfrsy @GitHub
-### Developer: SKEPPY0_0MAN @Roblox
+### Uploader & Developer: frzfrsy @GitHub
+### Developer (inactive): HalalDevelopmentCorp @Roblox
 ### Developer (inactive): d_0dle @Roblox
